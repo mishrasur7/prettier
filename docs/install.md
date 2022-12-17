@@ -11,7 +11,7 @@ First, install Prettier locally:
 ```bash
 npm install --save-dev --save-exact prettier
 ```
-
+// Can we implement a copy button here to copy the command via clipboard? 
 <!--yarn-->
 
 ```bash
